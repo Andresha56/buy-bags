@@ -1,0 +1,155 @@
+{
+    "handbags": [
+      {
+        "id":"1",
+        "image": "https://example.com/bag1.jpg",
+        "bag_name": "Classic Leather Tote",
+        "brand_name": "Chic Bags Co.",
+        "description": "A timeless leather tote bag, perfect for everyday use.",
+        "price": "$150",
+        "rating": 4.5,
+        "color": "Brown",
+        "similar_images": [
+          "https://example.com/bag1_other1.jpg",
+          "https://example.com/bag1_other2.jpg",
+          "https://example.com/bag1_other3.jpg"
+        ]
+      },
+      {
+        "id":"2",
+        "image": "https://example.com/bag2.jpg",
+        "bag_name": "Crossbody Sling Bag",
+        "brand_name": "Urban Style Accessories",
+        "description": "A trendy and versatile crossbody sling bag for a modern look.",
+        "price": "$80",
+        "rating": 4.2,
+        "color": "Black",
+        "similar_images": [
+          "https://example.com/bag2_other1.jpg",
+          "https://example.com/bag2_other2.jpg",
+          "https://example.com/bag2_other3.jpg"
+        ]
+      },
+      {
+        "id":"3",
+        "image": "https://example.com/bag3.jpg",
+        "bag_name": "Designer Evening Clutch",
+        "brand_name": "Elegant Designs Boutique",
+        "description": "A sophisticated evening clutch embellished with crystals.",
+        "price": "$200",
+        "rating": 4.8,
+        "color": "Silver",
+        "similar_images": [
+          "https://example.com/bag3_other1.jpg",
+          "https://example.com/bag3_other2.jpg",
+          "https://example.com/bag3_other3.jpg"
+        ]
+      },
+      {
+        "id":"4",
+        "image": "https://example.com/bag4.jpg",
+        "bag_name": "Bohemian Fringe Hobo",
+        "brand_name": "Free Spirit Creations",
+        "description": "A bohemian-inspired hobo bag with playful fringe accents.",
+        "price": "$120",
+        "rating": 4.0,
+        "color": "Beige",
+        "similar_images": [
+          "https://example.com/bag4_other1.jpg",
+          "https://example.com/bag4_other2.jpg",
+          "https://example.com/bag4_other3.jpg"
+        ]
+      },
+      {
+        "id":"5",
+        "image": "https://example.com/bag5.jpg",
+        "bag_name": "Structured Work Tote",
+        "brand_name": "Corporate Elegance",
+        "description": "A structured and spacious tote bag ideal for work essentials.",
+        "price": "$180",
+        "rating": 4.6,
+        "color": "Navy Blue",
+        "similar_images": [
+          "https://example.com/bag5_other1.jpg",
+          "https://example.com/bag5_other2.jpg",
+          "https://example.com/bag5_other3.jpg"
+        ]
+      },
+      {
+        "id":"6",
+        "image": "https://example.com/bag6.jpg",
+        "bag_name": "Quilted Chain Shoulder Bag",
+        "brand_name": "Luxury Trends Emporium",
+        "description": "An elegant quilted shoulder bag featuring a chain strap.",
+        "price": "$250",
+        "rating": 4.9,
+        "color": "Pink",
+        "similar_images": [
+          "https://example.com/bag6_other1.jpg",
+          "https://example.com/bag6_other2.jpg",
+          "https://example.com/bag6_other3.jpg"
+        ]
+      },
+      {
+        "id":"7",
+        "image": "https://example.com/bag7.jpg",
+        "bag_name": "Leather Backpack",
+        "brand_name": "Adventure Seekers Gear",
+        "description": "A durable leather backpack, perfect for outdoor adventures.",
+        "price": "$140",
+        "rating": 4.3,
+        "color": "Dark Brown",
+        "similar_images": [
+          "https://example.com/bag7_other1.jpg",
+          "https://example.com/bag7_other2.jpg",
+          "https://example.com/bag7_other3.jpg"
+        ]
+      },
+      {
+        "id":"8",
+        "image": "https://example.com/bag8.jpg",
+        "bag_name": "Evening Party Clutch",
+        "brand_name": "Glamour Nights Collection",
+        "description": "A glamorous clutch adorned with sparkling sequins, perfect for evening parties.",
+        "price": "$170",
+        "rating": 4.7,
+        "color": "Gold",
+        "similar_images": [
+          "https://example.com/bag8_other1.jpg",
+          "https://example.com/bag8_other2.jpg",
+          "https://example.com/bag8_other3.jpg"
+        ]
+      },
+      {
+        "id":"9",
+        "image": "https://example.com/bag9.jpg",
+        "bag_name": "Suede Hobo Bag",
+        "brand_name": "Vintage Vibes Emporium",
+        "description": "A stylish hobo bag made from soft suede material.",
+        "price": "$110",
+        "rating": 4.4,
+        "color": "Tan",
+        "similar_images": [
+          "https://example.com/bag9_other1.jpg",
+          "https://example.com/bag9_other2.jpg",
+          "https://example.com/bag9_other3.jpg"
+        ]
+      },
+      {
+        "id":"10",
+        "image": "https://example.com/bag10.jpg",
+        "bag_name": "Modern Geometric Tote",
+        "brand_name": "Contemporary Chic Designs",
+        "description": "A modern tote bag featuring a geometric pattern design.",
+        "price": "$160",
+        "rating": 4.6,
+        "color": "White",
+        "similar_images": [
+          "https://example.com/bag10_other1.jpg",
+          "https://example.com/bag10_other2.jpg",
+          "https://example.com/bag10_other3.jpg"
+        ]
+      }
+    ]
+  }
+  

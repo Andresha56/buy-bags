@@ -1,0 +1,36 @@
+
+
+@media only screen and (max-width: 640px) {
+    .sm-nav{
+        flex-direction: column;
+    }
+    .show-nav-menu{
+        width: 100%;
+    }
+    .sm-nav-control{
+        flex-direction: column;
+    }
+    .sm-nav-icons-control{
+        flex-direction: column;
+        /* gap:10px !important; */
+    }
+    ul{
+        padding: 0;
+    }
+    li{
+        margin: 20px 0;
+
+    }
+    .sm-nav-icon-control{
+        transition: all 0.9s ease-in-out;
+        display: flex;
+        width: 95%;
+        flex-direction: column;
+        background-color: #f2f3f4;
+        position:absolute;
+        top:40px;
+        right: auto;
+        padding-bottom: 20px;
+    }
+}
+  
