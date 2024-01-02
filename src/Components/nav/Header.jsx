@@ -46,7 +46,7 @@ function Header() {
 
    
   return (
-    <Container style={{border:"1px solid red"}}>
+    <Container >
     <header style={{position:"fixed",top:"0", zIndex:"10000",backgroundColor:"#f2f3f4",width:"100%",right:0}}>
       <Box
         className="sm-nav"

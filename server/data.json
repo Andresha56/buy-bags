@@ -1,0 +1,134 @@
+
+
+[
+  {
+    "id": 0,
+    "image": "https://res.cloudinary.com/ddse134bq/image/upload/v1703751041/zpxl3ybc9uzlelpm1y7s.avif",
+    "productName": "Saumur BB",
+    " description": "The Alma BB handbag traces its pedigree to an Art Deco original, introduced in 1934. Signature details impart a timeless elegance to this model crafted from iconic Monogram canvas: note the golden padlock and keys, two Toron handles and smart leather key bell. Fitted with a detachable strap, this charming small bag is perfect for cross-body wear.",
+    "price": "$10",
+    "avilablity":true,
+    "similarImages": [
+      "http://res.cloudinary.com/ddse134bq/image/upload/v1703750316/ix5ygyqsag7b8cbe3lvk.avif",
+      "http://res.cloudinary.com/ddse134bq/image/upload/v1703750317/sc7ffkwll40sl7o1gxmg.avif",
+      "http://res.cloudinary.com/ddse134bq/image/upload/v1703750318/qyfsjtr8w8wzuu2enc9h.avif"
+      
+    ]
+  },
+  {
+    "id": 1,
+    "image": "https://res.cloudinary.com/ddse134bq/image/upload/v1703751389/tnghfofpkxmie5qwz8yz.avif",
+    "productName": "Micro Chantilly",
+    " description": "With its distinctive shape and adorable size, the Micro Chantilly handbag in Monogram canvas brings style to any look. Inspired by the original Chantilly bag, first released in 1978, it’s exquisitely crafted and eminently practical. The attention to detail makes it ultra-sophisticated. A removable and adjustable strap enables shoulder and cross-body carry.",
+    "price": "$10",
+    "avilablity":true,
+    "similarImages": [
+      "https://res.cloudinary.com/ddse134bq/image/upload/v1703751390/njsniuclqwjmomtzhbhd.avif",
+      "https://res.cloudinary.com/ddse134bq/image/upload/v1703751390/aomrl2hmcq7ya81f4qbh.avif",
+      "https://res.cloudinary.com/ddse134bq/image/upload/v1703751390/jucpj3qmqu6judi2bkso.avif"
+    ]
+  },
+  {
+    "id": 2,
+    "image": "https://res.cloudinary.com/ddse134bq/image/upload/v1703751863/products/d9hxjaefnauywtz36tvk.avif",
+    "productName": "Speedy Bandoulière 20",
+    " description": "Like a diminutive version of the House’s historic Speedy travel bag, the Speedy Bandoulière 20 handbag is crafted from Monogram canvas with natural cowhide trim. In addition to the rolled leather top handles, there’s a wide detachable and adjustable textile strap with a woven Louis Vuitton signature. This bag’s classic design is completed with red textile lining.",
+    "price": "$11",
+    "avilablity":true,
+    "similarImages": [
+      "https://res.cloudinary.com/ddse134bq/image/upload/v1703751863/products/tx6r7w9gklbrjnfnttcs.avif",
+      "https://res.cloudinary.com/ddse134bq/image/upload/v1703751863/products/erjvmpanafejcpi3gplt.avif",
+      "https://res.cloudinary.com/ddse134bq/image/upload/v1703751863/products/j3heuubxvqneaturz9aa.avif"
+    ]
+  },
+  {
+    "id": 3,
+    "image": "https://res.cloudinary.com/ddse134bq/image/upload/v1703752196/products/jpx8ca37nbmoabrmuu3v.avif",
+    "productName": "Pochette Métis",
+    "description": "For Spring 2021, the Pochette Metis is fashioned from Monogram Empreinte leather with the embossed large Monogram pattern in a contrasting color. Accented with the emblematic S-lock found on the House’s historic trunks, this compact bag features a stylish top handle and a removable strap for shoulder or cross-body wear.",
+    "price": "$12",
+    "avilablity":false,
+    "similarImages": [
+      "https://res.cloudinary.com/ddse134bq/image/upload/v1703752196/products/xxx8e1v6w9xx9zcuzvbw.avif",
+      "https://res.cloudinary.com/ddse134bq/image/upload/v1703752196/products/yv6udaw8reklzkndw3xi.avif",
+      "https://res.cloudinary.com/ddse134bq/image/upload/v1703752196/products/xxx8e1v6w9xx9zcuzvbw.avif"
+    ]
+  },
+  {
+    "id": 4,
+    "image": "https://res.cloudinary.com/ddse134bq/image/upload/v1703752502/products/vyfkwhyw98a3tpsrynnr.avif",
+    "productName": "Treasure Box",
+    " description": "Part of the LV Sea Treasure capsule, the Treasure Box bag is made from Monogram satin, entirely covered in hand-applied translucent crystals, evoking water droplets. The gold-color trim, clasps, and S-lock perfectly enhance the preciousness of this minaudière. A removable leather top handle and removable and adjustable shoulder strap give carry options.",
+    "price": "$11",
+    "avilablity":true,
+    "similarImages": [
+      "https://res.cloudinary.com/ddse134bq/image/upload/v1703752502/products/jckk6c1hh2nhgyn7ijsc.avif",
+      "https://res.cloudinary.com/ddse134bq/image/upload/v1703752502/products/es7nospvxdqfjg8dfscb.avif",
+      "https://res.cloudinary.com/ddse134bq/image/upload/v1703752502/products/ndplql3sdsglzgxkew6n.avif"
+    ]
+  },
+  {
+    "id": 5,
+    "image": "https://res.cloudinary.com/ddse134bq/image/upload/v1703752771/products/lbtkheg1hldjhqriuixs.avif",
+    "productName": "Twist MM",
+    " description": "Crafted from the House’s emblematic Epi leather, the Twist MM chain bag features the now-iconic LV Twist lock, a sculptural signature in gleaming golden metal.This Twist MM handbag in Camel Epi leather edged with black is offered with a leather strap, for more carry options. For day, it can be worn over the shoulder or cross-body. Held by the short chain handle (with the strap removed) the bag becomes an ideal accessory for evening looks.",
+    "price": "$14",
+    "avilablity":true,
+    "similarImages": [
+      "https://res.cloudinary.com/ddse134bq/image/upload/v1703752771/products/tvinu7enut5fkowmgiez.avif",
+      "https://res.cloudinary.com/ddse134bq/image/upload/v1703752771/products/ldu0ogmcapkn2dtondmz.avif",
+      "https://res.cloudinary.com/ddse134bq/image/upload/v1703752772/products/ozfag6gir20byxapdt4e.png"
+    ]
+  },
+  {
+    "id": 6,
+    "image": "https://res.cloudinary.com/ddse134bq/image/upload/v1703752998/products/wynwe65qmwrj3ouvmdhr.avif",
+    "productName": "Petite Malle",
+    " description": "Every detail of the Petite Malle handbag is inspired by the history of Louis Vuitton trunks: the shape, the Monogram Reverse canvas, the gold-tone lock and fittings – even the sheepskin lining reprises a classic House motif. Impeccably crafted, this fashionable “little trunk” travels easily from day to evening. It can be carried as a clutch or attached to the adjustable strap for cross-body wear.",
+    "price": "$12",
+    "avilablity":false,
+    "similarImages": [
+      "https://res.cloudinary.com/ddse134bq/image/upload/v1703752998/products/fjctaxjfe4wwg5vf7opv.avif",
+      "https://res.cloudinary.com/ddse134bq/image/upload/v1703753000/products/cktpacumvehkxcuqnn75.avif",
+      "https://res.cloudinary.com/ddse134bq/image/upload/v1703752998/products/je75w9b7suscxmenxhy3.avif"
+    ]
+  },
+  {
+    "id": 7,
+    "image": "https://res.cloudinary.com/ddse134bq/image/upload/v1703753226/products/speziw6td6thqdczwztw.avif",
+    "productName": "Nano Noé",
+    " description": "This bicolor version of the Nano Noé is crafted from supple Monogram Empreinte leather, embossed with the Monogram pattern. This miniature replica of the iconic Noé bag is a stylish way to carry everyday essentials. In addition to its practical drawstring closure, it features a removable handle and a removable, adjustable shoulder strap for different carry options.",
+    "price": "$13",
+    "avilablity":true,
+    "similarImages": [
+      "https://res.cloudinary.com/ddse134bq/image/upload/v1703753226/products/p47cbmw5gkxrm4pswr9y.avif",
+      "https://res.cloudinary.com/ddse134bq/image/upload/v1703753226/products/g2gypxp3ksw2g9niv5ar.avif",
+      "https://res.cloudinary.com/ddse134bq/image/upload/v1703753226/products/cgsg553megyofdaxluxu.avif"
+    ]
+  }
+  , {
+    "id": 8,
+    "image": "https://res.cloudinary.com/ddse134bq/image/upload/v1703753417/products/wh9hyuiovovmhjpow4wb.avif",
+    "productName": "Pochette Coussin",
+    " description": "The Pochette Coussin is crafted from soft lambskin, which is embossed with the Monogram pattern to create a puffy, cushiony effect. This is further enhanced by the construction of the pouch, which gives it a supple, body-friendly shape. The removable chain, decorated with a Louis Vuitton charm, offers different carry options: clutch, shoulder or belt.",
+    "price": "$9",
+    "avilablity":true,
+    "similarImages": [
+     "https://res.cloudinary.com/ddse134bq/image/upload/v1703753417/products/ialdksrhorznppg8rhw8.avif",
+     "https://res.cloudinary.com/ddse134bq/image/upload/v1703753417/products/tc9bjtby8ay9aw8vcvsv.avif",
+     "https://res.cloudinary.com/ddse134bq/image/upload/v1703753417/products/s8c93sh6nxgxihvlpieh.avif"
+    ]
+  }, {
+    "id": 9,
+    "image": "https://res.cloudinary.com/ddse134bq/image/upload/v1703753680/products/olp67uxaheag5taqlci1.avif",
+    "productName": "Pochette Coussin",
+    " description": "Everything about this Pochette Coussin in Monogram-embossed lambskin speaks of glamour: from the shaded iridescent serigraphy on the Monogram pattern to the decorative chain with its LV Circle signature, also with an exquisite iridescent finish that seems to change color depending on the light. The removable chain offers clutch, shoulder, and belt carry.",
+    "price": "$8",
+    "avilablity":true,
+    "similarImages": [
+     "https://res.cloudinary.com/ddse134bq/image/upload/v1703753679/products/ogunrrrodg2pxlo7s6n8.avif",
+     "https://res.cloudinary.com/ddse134bq/image/upload/v1703753680/products/nkgawbatxn75bzmpikdj.avif",
+     "https://res.cloudinary.com/ddse134bq/image/upload/v1703753680/products/cwv1p14fme3viobio7er.avif"
+    ]
+  }
+]
