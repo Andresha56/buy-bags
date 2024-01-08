@@ -27,14 +27,27 @@ export const setData = async (req, res) => {
     }
   };
   
-export const getData=async(req,res)=>{
+export const getAllData=async(req,res)=>{
   try{
     const allproducts=await products.find({});
     res.json(allproducts)
+  }catch(eroor){
+    res.status(400).send(error)
   }
-  catch(eroor){
-    res.send(error)
-  }
-    
 }
+export const getDataById = async (req, res) => {
+  try {
+    const id = Number(req.params.id);
+    console.log(typeof id);
 
+    const product = await products.findOne({ id: id });
+    if (!product) {
+      return res.status(404).json({ error: 'Product not found' });
+    }
+
+    res.json(product);
+  } catch (error) {
+    res.status(500).send(error.message); 
+    console.log(error);
+  }
+};
