@@ -43,9 +43,8 @@ function Products() {
               xs={12}
               sm={6}
               md={4}
-              lg={4} // Corrected syntax
-            
-              key={index} // Moved key to Grid component
+              lg={4}
+              key={index} 
             >
               <Card data={data} />
             </Grid>
